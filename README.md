@@ -13,7 +13,7 @@ I look forward to collaborating with all of you as we go through this course.
 
  It can also be a struggle. In addition to watching Rocky I also try and remind myself of these three things:
 
-- Growth can painful *think back to childhood "growing pains"
+- Growth can be painful *think back to childhood "growing pains"
 - Growth doesn't happen over night
 - Growth requires sacrifice
 
