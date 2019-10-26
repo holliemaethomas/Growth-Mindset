@@ -19,9 +19,9 @@ I look forward to collaborating with all of you as we go through this course.
  It can also be a struggle. In addition to watching Rocky I also try and remind myself of these three things:
 
 <span style="color:purple">
-
 - Growth can be painful *think back to childhood "growing pains"
 - Growth doesn't happen over night
 - Growth requires sacrifice
 
+<span style="color:purple">
 My [Github](https://github.com/holliemaethomas) is a good example of times I have used growth mindset. I have failed more times than I have succeeded. My failures are my building blocks to my succeeses. 
