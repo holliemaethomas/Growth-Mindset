@@ -5,10 +5,12 @@
 ![Rocky IV](vidlink.png)
 
 ## Hello world!
-<span style="color:purple">
+
 My name is Hollie Thomas. I am a returning student to Codefellows.
 I look forward to collaborating with all of you as we go through this course.  
 
+
+ 
  When I think of keeping a growth mindset I go back to the above quote. I can't tell you how many times I have taken a swing at life but I **CAN** tell you how many times I have gotten hit. "*ain't no body gonna hit harder than life**". At the barest of principals growth mindset is being resilient and persistant.  
 
 
@@ -19,4 +21,4 @@ I look forward to collaborating with all of you as we go through this course.
 - Growth requires sacrifice
 
 My [Github](https://github.com/holliemaethomas) is a good example of times I have used growth mindset. I have failed more times than I have succeeded. My failures are my building blocks to my succeeses. 
-</span>
+
