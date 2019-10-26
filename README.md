@@ -11,6 +11,7 @@ I look forward to collaborating with all of you as we go through this course.
 
  When I think of keeping a growth mindset I go back to the above quote. I can't tell you how many times I have taken a swing at life but I **CAN** tell you how many times I have gotten hit. "*ain't no body gonna hit harder than life**". At the barest of principals growth mindset is being resilient and persistant.  
 
+
  It can also be a struggle. In addition to watching Rocky I also try and remind myself of these three things:
 
 - Growth can be painful *think back to childhood "growing pains"
