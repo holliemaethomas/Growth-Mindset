@@ -24,45 +24,8 @@ I look forward to collaborating with all of you as we go through this course.
 
 My [Github](https://github.com/holliemaethomas) is a good example of times I have used growth mindset. I have failed more times than I have succeeded. My failures are my building blocks to my succeeses. 
 
-1. Reading Assignment Gut Hub Pages [1.1](gitHubMD.md) 
+# TABLE OF CONTENTS FOR MY LEARNING JOURNAL
 
-# Learning Journal 1.3
-## Reading and Discussion
-### topic: Command Line cheat sheet
+1. Reading Assignment Git Hub Pages [Learning Journal 1.1](gitHubMD.md) 
 
-cd	Home directory
-
-ls	Short listing
-
-ls -l	Long listing
-
-ls -a	Listing incl. hidden files
-
-open .	Opens the directory
-top	Displays active processes.
-
- Press q to quit
-
-q	Exit
-
-clear	Clear screen
-
-touch [file]	Create new file
-
-pwd	Full path to working directory
-
-rm [file]	Remove a file, e.g. rm [file] [file]
-
-rm -i [file]	Remove with confirmation
-
-rm -r [dir]	Remove a directory and contents
-
-rm -f [file]	Force removal without confirmation
-
-rm -i [file]	Will display prompt before
-
-cp [file] [newfile]	Copy file to file
-
-cp [file] [dir]	Copy file to directory
-
-mv [file] [new filename]	Move/Rename, e.g. mv -v [file] [dir]
+2. Reading Assignment Command Line [Learning Journal 1.2](commandline.md)
