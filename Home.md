@@ -2,7 +2,7 @@
 ### In the immortal words of Rocky Balboa "*it ain't about how hard ya hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.*" -Rocky IV
 
  [*Watch me!*](https://youtu.be/D_Vg4uyYwEk)
-![Rocky IV](vidlink.png)
+![Rocky IV](images/vidlink.png)
 
 
 ## Hello world!
@@ -26,6 +26,6 @@ My [Github](https://github.com/holliemaethomas) is a good example of times I hav
 
 # TABLE OF CONTENTS FOR MY LEARNING JOURNAL
 
-1. Reading Assignment Git Hub Pages [Learning Journal 1.1](gitHubMD.md) 
+1. Reading Assignment Git Hub Pages [Learning Journal 1.1](./Journals/gitHubMD.md) 
 
-2. Reading Assignment Command Line [Learning Journal 1.2](commandline.md)
+2. Reading Assignment Command Line [Learning Journal 1.2](./Journals/commandline.md)

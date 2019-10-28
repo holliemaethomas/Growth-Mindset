@@ -1,4 +1,4 @@
-# Learning Journal 1.3
+# Learning Journal 1.2
 ## Reading and Discussion
 ### topic: Command Line cheat sheet
 
