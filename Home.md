@@ -29,3 +29,5 @@ My [Github](https://github.com/holliemaethomas) is a good example of times I hav
 1. Reading Assignment Git Hub Pages [Learning Journal 1.1](./Journals/gitHubMD.md) 
 
 2. Reading Assignment Command Line [Learning Journal 1.2](./Journals/commandline.md)
+
+3. Reading Assignment Git Practice [Learning Journal 1.3](./Journals/gitPractice.md)
