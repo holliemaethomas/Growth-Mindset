@@ -10,4 +10,4 @@ Color pickers allow you to pick hues or inbetween colors
 
 Opacticy is the ability for something to be seen underneath
 
-![CssMeme](./images/meme.gif)
+![CssMeme](../images/meme.gif)
