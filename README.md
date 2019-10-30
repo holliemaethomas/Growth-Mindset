@@ -35,3 +35,5 @@ My [Github](https://github.com/holliemaethomas) is a good example of times I hav
 4. Reading Assignment Git Version control [Learning Journal 1.4](./Journals/versionControl.md)
 
 5. Reading Assignment Process and design [Learning Journal 1.5](./Journals/processAndDesign.md)
+
+6. Reading Assignment Process and design [Learning Journal 1.6](./Journals/colorAndCss.md)
