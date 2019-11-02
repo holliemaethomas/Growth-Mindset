@@ -38,4 +38,4 @@ My [Github](https://github.com/holliemaethomas) is a good example of times I hav
 
 6. Reading Assignment Css and Colors [Learning Journal 1.6](./Journals/colorAndCss.md)
 
-7. Reading Assignment Beginning Javascript and follow along [Learning Journal 1.6](./Journals/followAlong.md)
+7. Reading Assignment Beginning Javascript and follow along [Learning Journal 1.7](./Journals/followAlong.md)
