@@ -41,3 +41,5 @@ My [Github](https://github.com/holliemaethomas) is a good example of times I hav
 7. Reading Assignment Beginning Javascript and follow along [Learning Journal 1.7](./Journals/followAlong.md)
 
 8. Reading Assignment Programming Javascript Expressions and Operators [Learning Journal 1.8](./Journals/programming.md)
+
+9. Reading Assignment Programming for loops [Learning Journal 1.9](./Journals/forLoops.md)
